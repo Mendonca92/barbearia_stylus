@@ -1,0 +1,70 @@
+body {
+    background-color: #f1f1f1;
+}
+
+#container {
+    width: 600px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+img {
+    width: 190px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: #606062;
+    border: 5px solid #606062;
+    padding: 10px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #7a797b;
+    margin: 35px 10px;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    color: #606062;
+    text-transform: uppercase;
+    border-top: 2px solid #606062;
+    border-bottom: 2px solid #606062;
+    padding: 10px 0;
+    margin: 15px 0;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: #606062;
+    text-align: justify;
+    line-height: 32px;
+    margin: 25px 0px;
+}
+#email {
+    text-decoration: none;
+    color: #606062;
+    background-color:blanchedalmond;
+    border-radius: 10px;
+    padding: 4px 2px;
+}
+
+#whatsapp-btn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    color: #f1f1f1;
+    background-color: #25D366;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+span {
+    font-weight: bold;
+}
